@@ -12,7 +12,7 @@
 
 namespace AJParallelRendering {
 
-	ss Compositor
+	class Compositor
 	{
 	public:
 		void setImage(ImageIO *image);
